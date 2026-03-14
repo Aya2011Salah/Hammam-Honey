@@ -7,7 +7,6 @@ Starting new honey project from scratch and using different social media platfor
 [Fatma Said]
 [Mohamed Ghoneim]
 [Nada Osama Tolba]
-[Salma Abdelkader]
 [Yomna Mahmoud Mohamed Youssef]
 
 
