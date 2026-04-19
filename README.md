@@ -66,3 +66,4 @@ Week 4 — [Creating Social media Accounts]
 Week 5 — [Launch & Sales]
 [Launch ads campaign]
 [Monitor first sales]
+the presentation for project :  https://gamma.app/docs/Hammam-Honey-qznkxup8qtpl69m?mode=doc
