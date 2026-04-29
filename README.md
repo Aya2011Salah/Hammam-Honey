@@ -68,8 +68,6 @@ Week 5 — [Launch & Sales]
 [Monitor first sales]
 
 
-the link of presentation for Hammam honey project :  https://gamma.app/docs/Hammam-Honey-qznkxup8qtpl69m?mode=doc
-
 
 the drive link: https://drive.google.com/drive/folders/1-Pk4DrDIZxjLLLj1AxlxV8JjwDJdk2Hu?usp=drive_link
 
