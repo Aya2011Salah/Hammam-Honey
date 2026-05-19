@@ -67,10 +67,15 @@
 متابعة أولى عمليات البيع
  
  تم إعداد هذا المشروع كجزء من متطلبات مبادرة مصر الرقمية، بهدف إنشاء علامة تجارية لعسل طبيعي عالي الجودة استراتيجية تسويق رقمية مبتكرة
-لينك بريزنتيشن المشروع : https://gamma.app/docs/Hammam-Honey-qznkxup8qtpl69m?mode=doc
-لينك الدرايف الموجود عليه تفاصيل المشروع من تحليل المنافسين للحملات الاعلانيه و نتائجها و صور من منصات التواصل الاجتماعي :
+لينك بريزنتيشن المشروع : 
+https://gamma.app/docs/Hammam-Honey-qznkxup8qtpl69m?mode=doc
+
+لينك الدرايف الموجود عليه تفاصيل المشروع من تحليل المنافسين للحملات الاعلانيه و نتائجها و صور من منصات التواصل الاجتماعي: 
+
  https://drive.google.com/drive/folders/1-Pk4DrDIZxjLLLj1AxlxV8JjwDJdk2Hu?usp=drive_link
 
+
+ 
  # Hammam-Honey
 Starting new honey project from scratch and using different social media platforms for marketing .
 
